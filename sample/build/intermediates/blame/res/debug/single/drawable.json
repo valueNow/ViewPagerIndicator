@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/res/merged/debug/drawable/perm_group_device_alarms.xml",
+        "source": "/Users/yanghj/iu/ViewPagerIndicator/sample/res/drawable/perm_group_device_alarms.xml"
+    },
+    {
+        "merged": "/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/res/merged/debug/drawable/perm_group_camera.xml",
+        "source": "/Users/yanghj/iu/ViewPagerIndicator/sample/res/drawable/perm_group_camera.xml"
+    },
+    {
+        "merged": "/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/res/merged/debug/drawable/perm_group_location.xml",
+        "source": "/Users/yanghj/iu/ViewPagerIndicator/sample/res/drawable/perm_group_location.xml"
+    },
+    {
+        "merged": "/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/res/merged/debug/drawable/vpi__tab_indicator.xml",
+        "source": "/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/exploded-aar/ViewPagerIndicator/library/unspecified/res/drawable/vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/res/merged/debug/drawable/perm_group_calendar.xml",
+        "source": "/Users/yanghj/iu/ViewPagerIndicator/sample/res/drawable/perm_group_calendar.xml"
+    },
+    {
+        "merged": "/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/res/merged/debug/drawable/custom_tab_indicator.xml",
+        "source": "/Users/yanghj/iu/ViewPagerIndicator/sample/res/drawable/custom_tab_indicator.xml"
+    }
+]

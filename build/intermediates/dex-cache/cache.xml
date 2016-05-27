@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_78989d592dc9712e46caee4c0338d6c3629497a5.jar" />
+    </item>
+    <item
+        jar="/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/exploded-aar/ViewPagerIndicator/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="168fc0a3ee9ecc9d1b10d3a94d77981e4869f7ff">
+        <dex dex="/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/pre-dexed/debug/ViewPagerIndicator-library-unspecified_08058292164a83980462fa0c044a562a399373bf.jar" />
+    </item>
+    <item
+        jar="/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.0_c5f29b9e0ca005267302ed53984b83840e4bb7c9.jar" />
+    </item>
+    <item
+        jar="/Users/yanghj/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="24.0.0 rc3"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/yanghj/iu/ViewPagerIndicator/sample/build/intermediates/pre-dexed/debug/support-annotations-22.2.0_5e2af9183695d05db3b82b12d462358a0d422651.jar" />
+    </item>
+
+</items>
